@@ -914,3 +914,23 @@ backbone
 meteor
 
 check http://modernizr.com
+
+
+coffee script:
+http://blog.crowdint.com/2012/03/14/a-brew-of-coffeescript.html
+
+-------------------------
+check turbolink:
+making rails links faster:
+https://github.com/rails/turbolinks
+
+-------------------------
+serveur database:
+google
+amazon
+Paas comme https://www.appfog.com/
+-------------------------
+Inscription Amazon S3
+https://portal.aws.amazon.com/gp/aws/developer/registration/index.html
+(visa required)
+-------------------------
